@@ -1,0 +1,2 @@
+model_checkpoint_path: "P4-2_ckpt"
+all_model_checkpoint_paths: "P4-2_ckpt"
